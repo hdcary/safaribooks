@@ -1,0 +1,9 @@
+How to get cookies
+
+Open Firefox.
+Open Developer tools (alt+command+I in Mac, control+shift+I Win).
+Navigate to /profile/ URL,.
+At the Network Tab select /profile/.
+Go to the Cookies "sub-tab".
+Right Click at the "Request Cookies" headline and click on COPY ALL.
+Paste them to a Cookies.json file.
